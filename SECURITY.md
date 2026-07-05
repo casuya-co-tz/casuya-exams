@@ -13,7 +13,7 @@ If you discover a security vulnerability, please report it responsibly.
 ### How to Report
 
 1. **Do not** create a public issue
-2. Send an email to: security@casuya.org
+2. Send an email to: security@casuya.co.tz
 3. Include as much detail as possible:
    - Description of the vulnerability
    - Steps to reproduce
