@@ -20,7 +20,7 @@
     "test:watch": "jest --config jest.config.js --watch",
     "test:coverage": "jest --config jest.config.js --coverage",
     "typecheck": "tsc --noEmit",
-    "prepare": "husky",
+    "prepare": "husky || true",
     "update:github": "node scripts/update-github-metadata.js",
     "prepublishOnly": "npm run clean && npm run build && npm run test"
   },
